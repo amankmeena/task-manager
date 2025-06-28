@@ -6,7 +6,7 @@ A straightforward task management application built with React. The emphasis is 
 
 ✅ This project is deployed using **GitHub Pages**.
 
-🔗 **Live Demo**: [View Site](https://amankmeena.github.io/news-bee/)
+🔗 **Live Demo**: [View Site](https://amankmeena.github.io/task-manager/)
 
 📦 **Branch Deployed**: `gh-pages`
 
